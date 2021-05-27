@@ -3,9 +3,9 @@ entries:
   kmrancher:
   - apiVersion: v1
     appVersion: v2.5.8
-    created: "2021-05-27T04:38:28.593130559Z"
+    created: "2021-05-27T04:59:15.391707976Z"
     description: Install Rancher Server to manage Kubernetes clusters across providers.
-    digest: 87e5ff3198eae90f0ed050b4e576f5722a967336c22e3fa3eeb59875f267b00b
+    digest: 8c5edc02aa84e03ed35f9faf72cb52844ac6d0ab4ce1487029d5ba76d8bf1e46
     keywords:
     - kmrancher
     name: kmrancher
@@ -14,4 +14,4 @@ entries:
     urls:
     - kmrancher-2.5.8.tgz
     version: 2.5.8
-generated: "2021-05-27T04:38:28.59132178Z"
+generated: "2021-05-27T04:59:15.389085201Z"
